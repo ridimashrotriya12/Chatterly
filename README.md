@@ -1,6 +1,6 @@
 # ⚡ Chatterly
 
-Chatterly is a powerful real-time chat application built with the MERN stack, integrating **Socket.io for live messaging, **Cloudinary for image storage, and **Zustand for state management. It offers **instant messaging, the ability to **send images, and allows users to **update their profile pictures securely with JWT authentication. Designed with a modern and responsive UI using Tailwind CSS and Daisy UI, ZapChat ensures an engaging user experience on all devices.
+Chatterly is a powerful real-time chat application built with the MERN stack, integrating **Socket.io for live messaging, **Cloudinary for image storage, and **Zustand for state management. It offers **instant messaging, the ability to **send images, and allows users to **update their profile pictures securely with JWT authentication. Designed with a modern and responsive UI using Tailwind CSS and Daisy UI, Chatterly ensures an engaging user experience on all devices.
 
 ---
 
